@@ -4,18 +4,7 @@
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <title>Hotel menu</title>
-  <link rel="stylesheet" href="style1.css" >
-  <script src="script1.js"></script>
-</head>
-<style>
-  body {
-    background-image: url("hemant.jpg");
-    background-size: cover; /* optional: scales image to cover the entire screen */
-    background-repeat: no-repeat; /* optional: prevents image tiling */
-    
-  }
-</style>
+  
 <body>
   
    <h2>🍽️ HEMANT'S RESTAURANT MENU🍽️</h2>
