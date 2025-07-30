@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Hemant's Restaurant Menu</title>
-
+   <link rel="stylesheet" href="path/to/your/styles.css">
 </head>
 <body>
 
