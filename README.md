@@ -3,55 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Hemant's Restaurant Menu</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #fff9f0;
-      color: #333;
-      text-align: center;
-      padding: 30px;
-    }
-    h2 {
-      font-size: 2em;
-      color: #e67e22;
-      margin-bottom: 20px;
-    }
-    .menu-section {
-      margin: 20px auto;
-      padding: 15px;
-      border: 2px dashed #e67e22;
-      border-radius: 10px;
-      max-width: 400px;
-      background-color: #fff;
-    }
-    .menu-section h3 {
-      color: #d35400;
-      margin-bottom: 10px;
-    }
-    .menu-section h4 {
-      margin: 5px 0;
-    }
-    .price {
-      color: #27ae60;
-      font-weight: bold;
-      margin-top: 10px;
-    }
-    .order-now {
-      margin-top: 30px;
-    }
-    .order-now button {
-      background-color: #e67e22;
-      color: white;
-      border: none;
-      padding: 12px 25px;
-      font-size: 1em;
-      border-radius: 6px;
-      cursor: pointer;
-    }
-    .order-now button:hover {
-      background-color: #d35400;
-    }
-  </style>
+
 </head>
 <body>
 
